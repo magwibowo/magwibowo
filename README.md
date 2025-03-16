@@ -44,7 +44,7 @@
 
 
 ### 🎧 Sedang Didengarkan
-[![Spotify](https://novatorem-henna-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31npad6ypev74tfwch6plzxuycrm)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31npad6ypev74tfwch6plzxuycrm)
 ---
 
 ### ✨ Pengunjung
