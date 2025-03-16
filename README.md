@@ -37,12 +37,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=NAMA_PENGGUNA&show_icons=true&theme=radical)
-
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_PENGGUNA&layout=compact&theme=radical)
-
 
 ## Streak Stats
 
@@ -51,7 +45,7 @@
 
 ### 🎧 Sedang Didengarkan
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31npad6ypev74tfwch6plzxuycrm)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31npad6ypev74tfwch6plzxuycrm&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31npad6ypev74tfwch6plzxuycrm)
 
 ---
 
