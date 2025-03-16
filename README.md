@@ -1,9 +1,9 @@
-# Halo, Saya M. Agung Wibowo (Huang) 👋
+# Halo, Saya M. Agung Wibowo (Huang) 👋  <br>
 
-## Tentang Saya
-🏙️ Saya berasal dari Kota Palembang
-🚀 Seorang pengembang software yang bersemangat dalam web development dan machine learning  
-🎯 Tujuan 2025: Berkontribusi lebih banyak pada proyek open source serta lulus D4 Teknik Informatika
+## Tentang Saya  <br>
+🏙️ Saya berasal dari Kota Palembang <br>
+🚀 Seorang pengembang software yang bersemangat dalam web development dan machine learning   <br>
+🎯 Tujuan 2025: Berkontribusi lebih banyak pada proyek open source serta lulus D4 Teknik Informatika <br>
 
 ## Keterampilan dan Teknologi
 
