@@ -5,7 +5,7 @@
 🚀 Seorang pengembang software yang bersemangat dalam web development dan machine learning   <br>
 🎯 Tujuan 2025: Berkontribusi lebih banyak pada proyek open source serta lulus D4 Teknik Informatika <br>
 
-## Keterampilan dan Teknologi
+
 
 ### Bahasa Pemrograman
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
