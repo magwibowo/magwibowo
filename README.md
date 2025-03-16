@@ -44,9 +44,7 @@
 
 
 ### 🎧 Sedang Didengarkan
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31npad6ypev74tfwch6plzxuycrm&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31npad6ypev74tfwch6plzxuycrm)
-
+(https://spotify-github-profile.vercel.app/api/view?uid=31npad6ypev74tfwch6plzxuycrm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
