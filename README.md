@@ -1,4 +1,4 @@
-# Halo, Saya M. Agung Wibowo (Huang) 👋  <br>
+# Halo, Saya Agung 👋  <br>
 
 ## Tentang Saya  <br>
 🏙️ Saya berasal dari Kota Palembang <br>
